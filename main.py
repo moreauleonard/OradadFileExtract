@@ -1,5 +1,5 @@
-from config import Settings
-from oradad_file import OradadFile
+from oradad_file.config import Settings
+from oradad_file.oradad_file import OradadFile
 from datetime import datetime
 from pathlib import Path
 

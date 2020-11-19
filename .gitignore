@@ -1,3 +1,4 @@
 __pycache__
 *.toml
 dist
+.DS_Store
