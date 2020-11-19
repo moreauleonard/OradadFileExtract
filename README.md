@@ -8,7 +8,7 @@ It is a simple python remake of Oradad_Extract.exe
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install oradad_file.
 
 ```bash
-pip install oradad_file
+pip install oradad-file
 ```
 
 ## Usage  
